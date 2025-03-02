@@ -1,3 +1,5 @@
+“饱了吗”外卖平台
+
 该项目采用springboot和mybatisplus开发，适合新手入门。
 
 学习该项目需要掌握Java基础、Java Web、MySQL、SpringBoot、SSM和Maven等知识。
